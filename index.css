@@ -95,10 +95,11 @@ button:hover{
 }
 
 .wrapper{
-    width: 1900px;
+    max-width: 1900px;
     height: auto;
     display: flex;
-    margin: 0px auto;
+    margin: 0 auto;
+    padding: 0 0.1rem;
 }
 
 .wrapper .sidebar{
